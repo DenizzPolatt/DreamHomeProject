@@ -4,47 +4,58 @@ Week 4:
 We gathered the general requirements for our project.(Bartu Mumcu)
 We decided on the features we are going to include in our project. We started thinking about design ideas.(Bartu Özyıldırım)
 We began working on the requirements stage. A draft version of the presentation was created. (Ulaş Keskin)
+As the first step, we began to work on our requirements stage. (Deniz Polat)
 
 Week 5: 
 We planned precisely how do the presentation perfectly. We met via zoom and recorede our presentation(Bartu Mumcu)
 We created a basic UI and prepared our presentation.We had a meeting to discuss possible features. (Bartu Özyıldırım)
 We finalized the presentation and recorded our delivery using zoom. This helped us form a strong outline and determine where to start from. (Ulaş Keskin)
+We recorded the presentation via Zoom and submitted it to Moodle. Our TA gave a very detailed feedback about the future improvements of our project. (Deniz Polat)
 
 Week 6: 
  To write the requirements report well, we discussed the specifications of our project deeply. ( Targeted users, what makes us different etc.)(Bartu Mumcu)
 We met and prepared the first drarft of our requirements report. (Bartu Özyıldrım)
 Requirements report was written. We explained details like targeted users, benefits of the application, and overall features. (Ulaş Keskin)
+We began to write our requirements stage report.
 
 Week 7: 
 We received feedback for our requirements report. We finalized it.(Bartu Mumcu)
 We made changes according to the feedback required from our TA. I started looking up tools creating a user interface like JavaFX.(Bartu Özyıldırım)
 We received feedback for our requirements report. Flows were fixed and second upload was delivered. (Ulaş Keskin)
+We received our first feedback of the report and corrected it. (Deniz Polat)
 
 Week 8: 
 It was the midterm week so we didn't spend a lot of time on project. (Bartu Mumcu)
 I did not do much because of the exams.(Bartu Özyıldırım)
 Due to it being the midterm week, progress was minimal. (Ulaş Keskin)
+I could not spend any time working on the project due to the midterm week.(Deniz Polat)
 
 Week 9: 
 We discussed how our ui would be. Accordingly, we prepared the presentation. We labored the parts of it among us.(Bartu Mumcu)
 We created a simple UI design. Created the main screens of our application and show the connections between the screens. We preapared our presentation(Bartu Özyıldırım)
 UI design presentation was prepared throughout the week. Creation and design were mostly in our focus. During lab hours a presentation was conducted. Similarly a UI design report was prepared containing details to supplement the presentation. (Ulaş Keskin)
+I used Adobe Illustrator tho create a UI design for our project with the ideas of my group members. I created a simple design that adresses to everyone. (Deniz Polat)
 
 Week 10: 
 Project labs were used to finalize and upload the UI design report v2. We connected through zoom to discuss the report throughout the week.(Bartu Mumcu)
-
+We met in Zoom and discussed about the visuals and the possible implementation methods. (Deniz Polat)
 
 Week 11: 
 Detailed design stage was introduced and we discussed how to approach it face to face with our group. We started learning how to use javafx.(Bartu Mumcu)
+After being done with the UI design, detailed design stage has been introduced in the lab hour. We met and wrote the report. (Deniz Polat)
 
 Week 12: 
 We finished design report v1. We started coding.(Bartu Mumcu)
+We began to implement our code but we need to learn how to use the javafx library, Bartu Ozyildirim helped us since he was experienced before. We sort of updated our UML diagram. (Deniz Polat)
 
 Week 13: 
 Using the feedback on the detailed design report we made progress in our implementation. We got halfway through our classes.(Bartu Mumcu)
+I began to implement the ChooseRoomShape class first, Bartu Ozyildirim helped me using javafx. (Deniz Polat)
 
 Week 14: 
-Approaching the last week we directed our attentions to coding. A draft and improvable version of the application was created. We prepared presentations and hypotheticals for the demos. Some parts were removed from the implementation the achieve the optimal. (Bartu Mumcu) 
+Approaching the last week we directed our attentions to coding. A draft and improvable version of the application was created. We prepared presentations and hypotheticals for the demos. Some parts were removed from the implementation the achieve the optimal. (Bartu Mumcu)
+We were talking to our TA about our state in the process of implementing. ChooseRoomShape class was done for me but the DesignScreenHandler needed more work. I needed to add an external library (jfxtras) (Deniz Polat)
 
 Week 15: 
 We delivered our demo during lab hours. Presentation was partitioned to optimize the delivery. Detailed design report v2 was done using feedback from our TA and final version of the code. UML diagram was improved and finalized .(Bartu Mumcu)
+We made our presentation in the lab hour and finalized our Detailed Design Report with the changes needed. (Deniz Polat)
